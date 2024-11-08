@@ -1,0 +1,15 @@
+C:\Jyoti's Docs\My project\ContactManager.Services\bin\Debug\net8.0\ContactManager.Services.deps.json
+C:\Jyoti's Docs\My project\ContactManager.Services\bin\Debug\net8.0\ContactManager.Services.dll
+C:\Jyoti's Docs\My project\ContactManager.Services\bin\Debug\net8.0\ContactManager.Services.pdb
+C:\Jyoti's Docs\My project\ContactManager.Services\bin\Debug\net8.0\ContactManager.Core.dll
+C:\Jyoti's Docs\My project\ContactManager.Services\bin\Debug\net8.0\ContactManager.Core.pdb
+C:\Jyoti's Docs\My project\ContactManager.Services\obj\Debug\net8.0\ContactManager.Services.csproj.AssemblyReference.cache
+C:\Jyoti's Docs\My project\ContactManager.Services\obj\Debug\net8.0\ContactManager.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jyoti's Docs\My project\ContactManager.Services\obj\Debug\net8.0\ContactManager.Services.AssemblyInfoInputs.cache
+C:\Jyoti's Docs\My project\ContactManager.Services\obj\Debug\net8.0\ContactManager.Services.AssemblyInfo.cs
+C:\Jyoti's Docs\My project\ContactManager.Services\obj\Debug\net8.0\ContactManager.Services.csproj.CoreCompileInputs.cache
+C:\Jyoti's Docs\My project\ContactManager.Services\obj\Debug\net8.0\ContactM.24498488.Up2Date
+C:\Jyoti's Docs\My project\ContactManager.Services\obj\Debug\net8.0\ContactManager.Services.dll
+C:\Jyoti's Docs\My project\ContactManager.Services\obj\Debug\net8.0\refint\ContactManager.Services.dll
+C:\Jyoti's Docs\My project\ContactManager.Services\obj\Debug\net8.0\ContactManager.Services.pdb
+C:\Jyoti's Docs\My project\ContactManager.Services\obj\Debug\net8.0\ref\ContactManager.Services.dll

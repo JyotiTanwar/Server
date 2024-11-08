@@ -1,0 +1,11 @@
+C:\Jyoti's Docs\My project\ContactManager.Core\bin\Debug\net8.0\ContactManager.Core.deps.json
+C:\Jyoti's Docs\My project\ContactManager.Core\bin\Debug\net8.0\ContactManager.Core.dll
+C:\Jyoti's Docs\My project\ContactManager.Core\bin\Debug\net8.0\ContactManager.Core.pdb
+C:\Jyoti's Docs\My project\ContactManager.Core\obj\Debug\net8.0\ContactManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jyoti's Docs\My project\ContactManager.Core\obj\Debug\net8.0\ContactManager.Core.AssemblyInfoInputs.cache
+C:\Jyoti's Docs\My project\ContactManager.Core\obj\Debug\net8.0\ContactManager.Core.AssemblyInfo.cs
+C:\Jyoti's Docs\My project\ContactManager.Core\obj\Debug\net8.0\ContactManager.Core.csproj.CoreCompileInputs.cache
+C:\Jyoti's Docs\My project\ContactManager.Core\obj\Debug\net8.0\ContactManager.Core.dll
+C:\Jyoti's Docs\My project\ContactManager.Core\obj\Debug\net8.0\refint\ContactManager.Core.dll
+C:\Jyoti's Docs\My project\ContactManager.Core\obj\Debug\net8.0\ContactManager.Core.pdb
+C:\Jyoti's Docs\My project\ContactManager.Core\obj\Debug\net8.0\ref\ContactManager.Core.dll

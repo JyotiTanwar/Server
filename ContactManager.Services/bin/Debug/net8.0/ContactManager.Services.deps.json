@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ContactManager.Services/1.0.0": {
+        "dependencies": {
+          "ContactManager.Core": "1.0.0"
+        },
+        "runtime": {
+          "ContactManager.Services.dll": {}
+        }
+      },
+      "ContactManager.Core/1.0.0": {
+        "runtime": {
+          "ContactManager.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ContactManager.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ContactManager.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

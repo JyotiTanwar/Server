@@ -1,0 +1,12 @@
+C:\Jyoti's Docs\My project\ContactManager.Middleware\bin\Debug\net8.0\ContactManager.Middleware.deps.json
+C:\Jyoti's Docs\My project\ContactManager.Middleware\bin\Debug\net8.0\ContactManager.Middleware.dll
+C:\Jyoti's Docs\My project\ContactManager.Middleware\bin\Debug\net8.0\ContactManager.Middleware.pdb
+C:\Jyoti's Docs\My project\ContactManager.Middleware\obj\Debug\net8.0\ContactManager.Middleware.csproj.AssemblyReference.cache
+C:\Jyoti's Docs\My project\ContactManager.Middleware\obj\Debug\net8.0\ContactManager.Middleware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jyoti's Docs\My project\ContactManager.Middleware\obj\Debug\net8.0\ContactManager.Middleware.AssemblyInfoInputs.cache
+C:\Jyoti's Docs\My project\ContactManager.Middleware\obj\Debug\net8.0\ContactManager.Middleware.AssemblyInfo.cs
+C:\Jyoti's Docs\My project\ContactManager.Middleware\obj\Debug\net8.0\ContactManager.Middleware.csproj.CoreCompileInputs.cache
+C:\Jyoti's Docs\My project\ContactManager.Middleware\obj\Debug\net8.0\ContactManager.Middleware.dll
+C:\Jyoti's Docs\My project\ContactManager.Middleware\obj\Debug\net8.0\refint\ContactManager.Middleware.dll
+C:\Jyoti's Docs\My project\ContactManager.Middleware\obj\Debug\net8.0\ContactManager.Middleware.pdb
+C:\Jyoti's Docs\My project\ContactManager.Middleware\obj\Debug\net8.0\ref\ContactManager.Middleware.dll
